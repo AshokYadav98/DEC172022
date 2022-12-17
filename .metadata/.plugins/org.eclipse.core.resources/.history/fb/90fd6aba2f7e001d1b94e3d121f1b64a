@@ -17,14 +17,6 @@ public class HdfcBase
        System.setProperty("webdriver.chrome.driver", "F:\\MY DOCUMENTS\\my new selenium file\\chromedriver_win32\\chromedriver.exe");
 		
 	    driver=new ChromeDriver();
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
 		
 		driver.manage().window().maximize();
 		
