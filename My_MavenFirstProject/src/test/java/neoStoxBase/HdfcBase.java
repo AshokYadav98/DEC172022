@@ -33,6 +33,16 @@ public class HdfcBase
 		Reporter.log("Launching the browser ", true);
 		
 		Thread.sleep(1000);
+		Thread.sleep(1000);
+		Thread.sleep(1000);
+		Thread.sleep(1000);
+		Thread.sleep(1000);
+		Thread.sleep(1000);
+		Thread.sleep(1000);
+		Thread.sleep(1000);
+		
+		
+		
 	 
 	 }
 }
